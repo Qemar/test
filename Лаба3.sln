@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Склад", "Склад\Склад.csproj", "{1272F7D5-23C6-4E94-89C7-13EB8F195EEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Склад2", "..\Лаба3 — копия\Склад\Склад2.csproj", "{89BD0412-8A57-4BA2-BD7B-324BE81A952C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSC", "CompositeSC\CompositeSC.csproj", "{913DBA36-401D-4428-BAC9-F92329A600B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1272F7D5-23C6-4E94-89C7-13EB8F195EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1272F7D5-23C6-4E94-89C7-13EB8F195EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1272F7D5-23C6-4E94-89C7-13EB8F195EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1272F7D5-23C6-4E94-89C7-13EB8F195EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BD0412-8A57-4BA2-BD7B-324BE81A952C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BD0412-8A57-4BA2-BD7B-324BE81A952C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BD0412-8A57-4BA2-BD7B-324BE81A952C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BD0412-8A57-4BA2-BD7B-324BE81A952C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913DBA36-401D-4428-BAC9-F92329A600B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913DBA36-401D-4428-BAC9-F92329A600B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913DBA36-401D-4428-BAC9-F92329A600B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913DBA36-401D-4428-BAC9-F92329A600B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC3470A-2441-448A-A038-844D4AB967E6}
+	EndGlobalSection
+EndGlobal

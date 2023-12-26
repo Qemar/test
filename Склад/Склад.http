@@ -1,0 +1,6 @@
+@Склад_HostAddress = http://localhost:5095
+
+GET {{Склад_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
